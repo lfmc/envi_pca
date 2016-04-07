@@ -1,0 +1,12 @@
+To build the program, simply run `make`
+and copy the executable in the path where you
+want to use it. It is required to have the
+GSL development library installed in the standard
+directory to succesfuly build the program. Otherwise,
+it will be necessary to make minor changes in the
+Makefile.
+
+The program has been tested exclusevely in a machine
+running Ubuntu 15.10. However, as it is written in
+ANSI C, it should run in other operating systems just
+as well.
